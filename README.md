@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Parkour!
+Fun little plugin that displays random overhead text when training agility.
