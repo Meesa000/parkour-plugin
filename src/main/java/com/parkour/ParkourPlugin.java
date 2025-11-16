@@ -32,11 +32,11 @@ public class ParkourPlugin extends Plugin {
 	private boolean firstAgilityEvent = true;
 	private LocalPoint markOfGraceLoc;
 	private final List<String> overheadTextList = List.of(
+			"Nailed it!",
 			"PAAAAAAAAAAAAAARKOOOOOOOUR!!!",
 			"Glideeeeeeeeeeee!",
 			"WOAH I ALMOST FELL!",
-			"Smoooooooth landing!",
-			"Nailed it!"
+			"Smoooooooth landing!"
 	);
 
 
