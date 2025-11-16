@@ -35,7 +35,8 @@ public class ParkourPlugin extends Plugin {
 			"PAAAAAAAAAAAAAARKOOOOOOOUR!!!",
 			"Glideeeeeeeeeeee!",
 			"WOAH I ALMOST FELL!",
-			"Smoooooooth landing!"
+			"Smoooooooth landing!",
+			"Nailed it!"
 	);
 
 
